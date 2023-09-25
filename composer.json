@@ -1,0 +1,10 @@
+{
+    "name":"trinhhongquyen/shop-ban-hang",
+    "description":"Xay dung website ban hang - thay toi day",
+    "autoload":{
+        "psr-4":{
+            "Src\\":"application/"
+        }
+    },
+    "require":{}
+}
